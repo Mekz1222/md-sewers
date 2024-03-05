@@ -8,8 +8,8 @@ Please use release versions, cause it is stable version of md-sewers
 
 ## Install the resource
 
-Download the [latest release](https://github.com/Mekz1222/md-sewers/releases/latest) .zip file
+Download the [latest release](https://github.com/Mekz1222/md-sewers/releases/latest) source code .zip file
 
-Open the .zip file from release and drag it to anywhere you want in resources folder
+Open the .zip file from release and drag it to anywhere you want in resources folder and remove X.X.X version from folder name
 
 Set ensure md-sewers to server.cfg after framework and other scripts
