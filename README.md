@@ -4,7 +4,7 @@ Sewer hatch handling script using ox_doorlocks
 
 # Installation
 
-Please use release versions, cause it is stable version of md-notify. If you want to use main branch you need to build web folder.
+Please use release versions, cause it is stable version of md-sewers
 
 ## Install the resource
 
