@@ -1,5 +1,5 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-# MD Scripts | QB, ESX for now | Sewers
+# MD Scripts | QB, ESX for now | Sewers | Pre-configured for Nopixel sewers (https://store.nopixel.net/category/assets)
 Sewer hatch handling script using ox_doorlocks
 
 # Installation
